@@ -75,6 +75,7 @@ document.body.appendChild(progressIndicator);
       }
     }
   }
+  
 
   console.info("Done removing videos!");
 
