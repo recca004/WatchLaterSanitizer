@@ -1,0 +1,26 @@
+{
+    "manifest_version": 2,
+    "name": "Watch Later Sanitizer",
+    "version": "1.0",
+    "description": "Easily and automatically remove all videos from your YouTube 'Watch Later' or custom playlists with a single click. Designed for efficient playlist management.",
+    "permissions": ["activeTab"],
+  
+    "background": {
+      "scripts": ["background.js"],
+      "persistent": false
+    },
+    "browser_action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "icon16.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+      }
+    },
+    "icons": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  }
+  
