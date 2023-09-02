@@ -5,7 +5,7 @@
 
 WatchLaterSanitizer is a Chrome extension designed to help you manage your YouTube "Watch Later" playlist or any other playlists. With just a single click, you can either remove all videos from the playlist or just the first 10, providing a quick and easy way to declutter your YouTube playlists.
 
-![WatchLaterSanitizer Logo](assets/logo.png)
+![WatchLaterSanitizer Logo](assets/Logo.png)
 
 ## Table of Contents
 
